@@ -7,7 +7,7 @@
 ## Usage
 To run the image
 ```sh
-docker run -d -P --name ssh chihhunglin/ubuntu_sshd
+docker run -d -P --name ssh chihhunglin/ubuntu-ssh
 ```
 To see the port forwarding
 ```sh
