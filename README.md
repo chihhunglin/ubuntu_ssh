@@ -13,7 +13,7 @@ To see the port forwarding
 ```sh
 docker port ssh
 ```
-To login ssh container
+To login ssh container (password: root)
 ```sh
 ssh root@localhost -p <host port>
 ```
